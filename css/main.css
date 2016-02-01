@@ -1,0 +1,28 @@
+body {
+  background: url("../images/partyballoons.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+}
+
+button {
+  margin: 15px;
+}
+
+footer {
+  padding-top: 100px;
+}
+
+button {
+  background: white;
+}
